@@ -20,3 +20,4 @@ Tecnologias utilizadas
 <img align="center" alt="SQLite" height="30" width="80" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
 
+![Snake animation](https://github.com/ThaisaCristina92/ThaisaCristina92/blob/output/github-contribution-grid-snake.svg)
